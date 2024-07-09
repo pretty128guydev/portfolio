@@ -13,56 +13,54 @@
         {
             "title": "Trade-Smarter",
             "startDate": "2024",
-            "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+            "description": "I had the opportunity to work on the most expansive application I've ever encountered. I learned numerous technologies, and my code was reviewed by an exceptional curator. The application handles all trading processes and allows for the storage of all evidence related to transactions on a trading platform.",
             "images": [
-                "images/portfolio/tradesmarter1.png",
-                "images/portfolio/tradesmarter2.png"
+                "images/portfolio/tradesmarter/tradesmarter1.png",
+                "images/portfolio/tradesmarter/tradesmarter2.png",
+                "images/portfolio/tradesmarter/tradesmarter3.png"
             ],
-            "url": "",
+            "url": "https://simple-trader.binaryedges.com/",
             "technologies": [
                 {
-                  "class": "devicon-angularjs-plain",
-                  "name": "Angular"
+                    "class": "devicon-angularjs-plain",
+                    "name": "Angular"
                 },
-                {
-                  "class": "devicon-react-original",
-                  "name": "React"
-                },
-                {
-                  "class": "devicon-typescript-plain",
-                  "name": "TypeScript"
-                }
-              ]
-        },
-        {
-            "title": "Photography",
-            "startDate": "2018",
-            "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-            "images": [
-                "images/portfolio/photography/p1.jpg",
-                "images/portfolio/photography/p2.jpg"
-            ],
-            "url": "https://github.com",
-            "technologies": [
                 {
                     "class": "devicon-react-original",
                     "name": "React"
                 },
                 {
-                    "class": "devicon-javascript-plain",
-                    "name": "JavaScript"
+                    "class": "devicon-typescript-plain",
+                    "name": "TypeScript"
                 }
             ]
         },
         {
-            "title": "3D Object Viewer",
-            "startDate": "2015",
-            "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+            "title": "Quadcopter",
+            "startDate": "2020",
+            "description": "Personal project for study subject. I was responsible for developing and managing an e-commerce website for selling quadcopters using WordPress. This involved setting up the site, selecting and customizing themes, configuring plugins, and ensuring a seamless user experience. The project also included integrating payment gateways, optimizing site performance, and implementing SEO strategies to enhance visibility. Through this project, I gained hands-on experience with WordPress and e-commerce best practices.",
             "images": [
-                "images/portfolio/adventure/p1.jpg",
-                "images/portfolio/adventure/p2.jpg"
+                "images/portfolio/quadcopter/quadcopter1.png",
+                "images/portfolio/quadcopter/quadcopter3.png"
             ],
-            "url": "https://github.com",
+            "url": "https://skupka-dronov.ru/",
+            "technologies": [
+                {
+                    "class": "devicon-wordpress-plain",
+                    "name": "Wordpress"
+                }
+            ]
+        },
+        {
+            "title": "Hilton Hyland",
+            "startDate": "2017",
+            "description": "One of the first apps I worked on during my work as web developer. I was responsible for developing the front-end for an international luxury real estate brokerage using React. This involved creating interactive and user-friendly interfaces to showcase high-end properties, integrating APIs for real-time data, and ensuring a responsive design across various devices. This project was also my first experience with the React framework, and I gained significant knowledge and skills in modern web development practices.",
+            "images": [
+                "images/portfolio/hilton_hyland/hilton_hyland1.png",
+                "images/portfolio/hilton_hyland/hilton_hyland2.png",
+                "images/portfolio/hilton_hyland/hilton_hyland3.png"
+            ],
+            "url": "https://www.hiltonhyland.com/",
             "technologies": [
                 {
                     "class": "devicon-angularjs-plain",
@@ -81,38 +79,115 @@
     ],
     "experience": [
         {
-            "company": "DefOpenSource",
-            "title": "Front-End Developer",
-            "years": "10.2019 - present",
+            "company": " Smarter Holdings International Ltd",
+            "title": "Full-Stack developer",
+            "years": "02.2024 - present",
             "mainTech": [
-                "Angular 8/9/10"
+                "Remote"
             ],
             "technologies": [
-                "REST API",
-                "RxJS",
+                "React",
+                "MongoDB",
                 "JavaScript",
                 "Bootstrap",
-                "MDBootstrap",
-                "EF Core",
-                ".NET Core",
-                "SignalR",
-                "Angular Material"
-            ]
+                "Django",
+                "Go",
+                "Angular",
+                "AWS",
+                "GraphQL",
+                "Highcharts"
+            ],
+            "icon": "fab fa-angular experience-icon"
         },
         {
-            "company": "Serros Solutions",
-            "title": "Intern",
-            "years": "01.2018 - 09.2019",
+            "company": "TechAhead",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "11.2022 - 02.2024",
             "mainTech": [
-                "Angular 7/8"
+                "Remote"
             ],
             "technologies": [
-                "RxJS",
-                "Django",
+                "React",
+                "TypeScript",
+                "MySQL",
+                "Jest",
+                "AWS",
+                "MongoDB",
+                "JavaScript"
+            ],
+            "icon": "fab fa-react experience-icon"
+        },
+        {
+            "company": "Spa Space Chicago",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "01.2020 - 08.2022",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
                 "PHP",
                 "JavaScript",
-                "DHTMLX Gantt"
-            ]
+                "Bootstrap",
+                "Django",
+                "Go",
+                "React",
+                "MongoDB",
+                "Cypress"
+            ],
+            "icon": "fab fa-node experience-icon"
+        },
+        {
+            "company": "Stryker",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "11.2017 - 12.2019",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "Node.js",
+                "Vue.js",
+                "Cypress",
+                "Jira",
+                "Redux",
+                "Tailwindcss",
+                "CSS3",
+                "C++"
+            ],
+            "icon": "fab fa-php experience-icon"
+        },
+        {
+            "company": "Wildcard NYC",
+            "title": "Software Engineer",
+            "years": "03.2016 - 09.2017",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "saga-redux",
+                "Angular",
+                "PHP",
+                "JavaScript",
+                "UX/UI",
+                "HTML5",
+                "Github"
+            ],
+            "icon": "fab fa-css3 experience-icon"
+        },
+        {
+            "company": "Radware",
+            "title": "Web Developer",
+            "years": "01.2014 - 12.2015",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "HTML5",
+                "Sass",
+                "PHP",
+                "C#",
+                "JavaScript"
+            ],
+            "icon": "fab fa-html5 experience-icon"
         }
     ]
 }

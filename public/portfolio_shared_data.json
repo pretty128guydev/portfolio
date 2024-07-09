@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Nguyen Cuong",
-      "titles": [ "Senior Front-end Developer", "Full-Stack developer", "Dev Team lead", "Senior React developer" ],
+      "titles": [ "Senior Front-end Developer", "Full-Stack developer", "Dev Team lead" ],
       "social": [
         {
           "name": "github",
@@ -62,6 +62,26 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "55"
+        },
+        {
+          "name": "Go",
+          "class": "devicon-go-plain",
+          "level": "50"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "45"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "40"
         }
       ]
     }

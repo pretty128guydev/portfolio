@@ -1,116 +1,196 @@
 {
     "basic_info": {
-      "description_header": "Привет",
-      "description": "👋 Нгуен Куонг, старший фронтенд-инженер React/React Native, — страстный программист с десятилетним опытом работы. Он выделяется способностью быстро внедрять новейшие технологии и мастерски решать задачи. Нгуен успешно справляется с новыми вызовами, неустанно стремится к саморазвитию и обожает делиться своими знаниями, вдохновляя и наставляя младших коллег. Он изобретателен в поиске новых идей, мастерски владеет множеством навыков и тесно сотрудничает с другими областями для достижения общего успеха. Cпасибо 💜",
-      "section_name": {
-        "about": "Обо мне",
-        "projects": "Проекты",
-        "skills": "Навыки",
-        "experience": "Опыт"
-      }
+        "description_header": "Привет",
+        "description": "👋 Нгуен Куонг, старший фронтенд-инженер React/React Native, — страстный программист с десятилетним опытом работы. Он выделяется способностью быстро внедрять новейшие технологии и мастерски решать задачи. Нгуен успешно справляется с новыми вызовами, неустанно стремится к саморазвитию и обожает делиться своими знаниями, вдохновляя и наставляя младших коллег. Он изобретателен в поиске новых идей, мастерски владеет множеством навыков и тесно сотрудничает с другими областями для достижения общего успеха. Cпасибо 💜",
+        "section_name": {
+            "about": "Обо мне",
+            "projects": "Проекты",
+            "skills": "Навыки",
+            "experience": "Опыт"
+        }
     },
     "projects": [
-      {
-        "title": "Сматр-Торговля",
-        "startDate": "2024",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-            "images/portfolio/tradesmarter1.png",
-            "images/portfolio/tradesmarter2.png"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
+        {
+            "title": "Сматр-Торговля",
+            "startDate": "2024",
+            "description": "У меня была возможность работать над самым масштабным приложением, с которым мне когда-либо доводилось работать. Я изучил множество технологий, и мой код был проверен опытным куратором. Приложение обрабатывает все процессы торговли и позволяет хранить все документы, связанные с сделками на торговой платформе.",
+            "images": [
+                "images/portfolio/tradesmarter/tradesmarter1.png",
+                "images/portfolio/tradesmarter/tradesmarter2.png",
+                "images/portfolio/tradesmarter/tradesmarter3.png"
+            ],
+            "url": "https://simple-trader.binaryedges.com/",
+            "technologies": [
+                {
+                    "class": "devicon-angularjs-plain",
+                    "name": "Angular"
+                },
+                {
+                    "class": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "class": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                }
+            ]
+        },
+        {
+            "title": "Скупка",
+            "startDate": "2020",
+            "description": "Это был личный проект по учебной дисциплине. Я был ответственен за разработку и управление интернет-магазином квадрокоптеров на платформе WordPress. Это включало настройку сайта, выбор и настройку темы, настройку плагинов и обеспечение безупречного пользовательского опыта. В проект также входило интегрирование платежных шлюзов, оптимизация производительности сайта и внедрение стратегий SEO для улучшения видимости. Благодаря этому проекту я получил практический опыт работы с WordPress и лучшими практиками электронной коммерции.",
+            "images": [
+                "images/portfolio/quadcopter/quadcopter1.png",
+                "images/portfolio/quadcopter/quadcopter3.png"
+            ],
+            "url": "https://skupka-dronov.ru/",
+            "technologies": [
+                {
+                    "class": "devicon-php-original",
+                    "name": "PHP"
+                },
+                {
+                    "class": "devicon-wordpress-plain",
+                    "name": "Wordpress"
+                }
+            ]
+        },
+        {
+            "title": "Хилтон Хайленд",
+            "startDate": "2017",
+            "description": "Это было одно из первых приложений, над которым я работал в качестве веб-разработчика. Я был ответственен за разработку фронтенда для международного брокерского агентства по роскошной недвижимости с использованием React. Это включало создание интерактивных и удобных интерфейсов для демонстрации элитной недвижимости, интеграцию API для получения данных в реальном времени и обеспечение отзывчивого дизайна на различных устройствах. Этот проект стал моим первым опытом работы с фреймворком React, и я получил значительные знания и навыки в современных практиках веб-разработки.",
+            "images": [
+                "images/portfolio/adventure/p1.jpg",
+                "images/portfolio/adventure/p2.jpg"
+            ],
+            "url": "https://www.hiltonhyland.com/",
+            "technologies": [
+                {
+                    "class": "devicon-angularjs-plain",
+                    "name": "Angular"
+                },
+                {
+                    "class": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        }
     ],
     "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
+        {
+            "company": " Smarter Holdings International Ltd",
+            "title": "Full-Stack developer",
+            "years": "02.2024 - настоящее",
+            "mainTech": [
+                "Удаленно"
+            ],
+            "technologies": [
+                "React",
+                "MongoDB",
+                "JavaScript",
+                "Bootstrap",
+                "Django",
+                "Go",
+                "Angular",
+                "AWS",
+                "GraphQL",
+                "Highcharts"
+            ],
+            "icon": "fab fa-angular experience-icon"
+        },
+        {
+            "company": "TechAhead",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "11.2022 - 02.2024",
+            "mainTech": [
+                "Удаленно"
+            ],
+            "technologies": [
+                "React",
+                "TypeScript",
+                "MySQL",
+                "Jest",
+                "AWS",
+                "MongoDB",
+                "JavaScript"
+            ],
+            "icon": "fab fa-react experience-icon"
+        },
+        {
+            "company": "Spa Space Chicago",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "01.2020 - 08.2022",
+            "mainTech": [
+                "Удаленно"
+            ],
+            "technologies": [
+                "PHP",
+                "JavaScript",
+                "Bootstrap",
+                "Django",
+                "Go",
+                "React",
+                "MongoDB",
+                "Cypress"
+            ],
+            "icon": "fab fa-node experience-icon"
+        },
+        {
+            "company": "Stryker",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "11.2017 - 12.2019",
+            "mainTech": [
+                "Удаленно"
+            ],
+            "technologies": [
+                "Node.js",
+                "Vue.js",
+                "Cypress",
+                "Jira",
+                "Redux",
+                "Tailwindcss",
+                "CSS3",
+                "C++"
+            ],
+            "icon": "fab fa-php experience-icon"
+        },
+        {
+            "company": "Wildcard NYC",
+            "title": "Software Engineer",
+            "years": "03.2016 - 09.2017",
+            "mainTech": [
+                "Удаленно"
+            ],
+            "technologies": [
+                "saga-redux",
+                "Angular",
+                "PHP",
+                "JavaScript",
+                "UX/UI",
+                "HTML5",
+                "Github"
+            ],
+            "icon": "fab fa-css3 experience-icon"
+        },
+        {
+            "company": "Radware",
+            "title": "Web Developer",
+            "years": "01.2014 - 12.2015",
+            "mainTech": [
+                "Удаленно"
+            ],
+            "technologies": [
+                "HTML5",
+                "Sass",
+                "PHP",
+                "C#",
+                "JavaScript"
+            ],
+            "icon": "fab fa-html5 experience-icon"
+        }
     ]
-  }
+}
