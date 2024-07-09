@@ -1,0 +1,193 @@
+{
+    "basic_info": {
+        "description_header": "Hi",
+        "description": "👋 Senior React / React Native Front-end Engineer Nguen Cuong is a passionate software engineer with 10 years of experience. What sets him apart is his ability to ramp up new technologies and his problem-solving skills quickly. He thrives on new challenges and enjoys pushing himself to learn and grow. He is passionate about mentoring junior developers and helping them unlock their full potential. He loves proposing new ideas, wearing many hats, and collaborating closely with different areas to achieve success. Thank you 💜",
+        "section_name": {
+            "about": "About me",
+            "projects": "Projects",
+            "skills": "Skills",
+            "experience": "Experience"
+        }
+    },
+    "projects": [
+        {
+            "title": "Trade-Smarter",
+            "startDate": "2024",
+            "description": "I had the opportunity to work on the most expansive application I've ever encountered. I learned numerous technologies, and my code was reviewed by an exceptional curator. The application handles all trading processes and allows for the storage of all evidence related to transactions on a trading platform.",
+            "images": [
+                "images/portfolio/tradesmarter/tradesmarter1.png",
+                "images/portfolio/tradesmarter/tradesmarter2.png",
+                "images/portfolio/tradesmarter/tradesmarter3.png"
+            ],
+            "url": "https://simple-trader.binaryedges.com/",
+            "technologies": [
+                {
+                    "class": "devicon-angularjs-plain",
+                    "name": "Angular"
+                },
+                {
+                    "class": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "class": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                }
+            ]
+        },
+        {
+            "title": "Quadcopter",
+            "startDate": "2020",
+            "description": "Personal project for study subject. I was responsible for developing and managing an e-commerce website for selling quadcopters using WordPress. This involved setting up the site, selecting and customizing themes, configuring plugins, and ensuring a seamless user experience. The project also included integrating payment gateways, optimizing site performance, and implementing SEO strategies to enhance visibility. Through this project, I gained hands-on experience with WordPress and e-commerce best practices.",
+            "images": [
+                "images/portfolio/quadcopter/quadcopter1.png",
+                "images/portfolio/quadcopter/quadcopter3.png"
+            ],
+            "url": "https://skupka-dronov.ru/",
+            "technologies": [
+                {
+                    "class": "devicon-wordpress-plain",
+                    "name": "Wordpress"
+                }
+            ]
+        },
+        {
+            "title": "Hilton Hyland",
+            "startDate": "2017",
+            "description": "One of the first apps I worked on during my work as web developer. I was responsible for developing the front-end for an international luxury real estate brokerage using React. This involved creating interactive and user-friendly interfaces to showcase high-end properties, integrating APIs for real-time data, and ensuring a responsive design across various devices. This project was also my first experience with the React framework, and I gained significant knowledge and skills in modern web development practices.",
+            "images": [
+                "images/portfolio/hilton_hyland/hilton_hyland1.png",
+                "images/portfolio/hilton_hyland/hilton_hyland2.png",
+                "images/portfolio/hilton_hyland/hilton_hyland3.png"
+            ],
+            "url": "https://www.hiltonhyland.com/",
+            "technologies": [
+                {
+                    "class": "devicon-angularjs-plain",
+                    "name": "Angular"
+                },
+                {
+                    "class": "devicon-typescript-plain",
+                    "name": "TypeScript"
+                },
+                {
+                    "class": "devicon-csharp-plain",
+                    "name": "C#"
+                }
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": " Smarter Holdings International Ltd",
+            "title": "Full-Stack developer",
+            "years": "02.2024 - present",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "React",
+                "MongoDB",
+                "JavaScript",
+                "Bootstrap",
+                "Django",
+                "Go",
+                "Angular",
+                "AWS",
+                "GraphQL",
+                "Highcharts"
+            ],
+            "icon": "fab fa-angular experience-icon"
+        },
+        {
+            "company": "TechAhead",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "11.2022 - 02.2024",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "React",
+                "TypeScript",
+                "MySQL",
+                "Jest",
+                "AWS",
+                "MongoDB",
+                "JavaScript"
+            ],
+            "icon": "fab fa-react experience-icon"
+        },
+        {
+            "company": "Spa Space Chicago",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "01.2020 - 08.2022",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "PHP",
+                "JavaScript",
+                "Bootstrap",
+                "Django",
+                "Go",
+                "React",
+                "MongoDB",
+                "Cypress"
+            ],
+            "icon": "fab fa-node experience-icon"
+        },
+        {
+            "company": "Stryker",
+            "title": "SENIOR FRONT-END ENGINEER",
+            "years": "11.2017 - 12.2019",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "Node.js",
+                "Vue.js",
+                "Cypress",
+                "Jira",
+                "Redux",
+                "Tailwindcss",
+                "CSS3",
+                "C++"
+            ],
+            "icon": "fab fa-php experience-icon"
+        },
+        {
+            "company": "Wildcard NYC",
+            "title": "Software Engineer",
+            "years": "03.2016 - 09.2017",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "saga-redux",
+                "Angular",
+                "PHP",
+                "JavaScript",
+                "UX/UI",
+                "HTML5",
+                "Github"
+            ],
+            "icon": "fab fa-css3 experience-icon"
+        },
+        {
+            "company": "Radware",
+            "title": "Web Developer",
+            "years": "01.2014 - 12.2015",
+            "mainTech": [
+                "Remote"
+            ],
+            "technologies": [
+                "HTML5",
+                "Sass",
+                "PHP",
+                "C#",
+                "JavaScript"
+            ],
+            "icon": "fab fa-html5 experience-icon"
+        }
+    ]
+}
