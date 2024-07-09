@@ -60,8 +60,9 @@
             "startDate": "2017",
             "description": "Это было одно из первых приложений, над которым я работал в качестве веб-разработчика. Я был ответственен за разработку фронтенда для международного брокерского агентства по роскошной недвижимости с использованием React. Это включало создание интерактивных и удобных интерфейсов для демонстрации элитной недвижимости, интеграцию API для получения данных в реальном времени и обеспечение отзывчивого дизайна на различных устройствах. Этот проект стал моим первым опытом работы с фреймворком React, и я получил значительные знания и навыки в современных практиках веб-разработки.",
             "images": [
-                "images/portfolio/adventure/p1.jpg",
-                "images/portfolio/adventure/p2.jpg"
+                "images/portfolio/hilton_hyland/hilton_hyland1.png",
+                "images/portfolio/hilton_hyland/hilton_hyland2.png",
+                "images/portfolio/hilton_hyland/hilton_hyland3.png"
             ],
             "url": "https://www.hiltonhyland.com/",
             "technologies": [
