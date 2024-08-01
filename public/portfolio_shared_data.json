@@ -77,6 +77,11 @@
           "name": "React",
           "class": "devicon-react-plain",
           "level": "40"
+        },
+        {
+          "name": ".NET",
+          "class": "devicon-dotnet-plain",
+          "level": "35"
         }
       ]
     }
